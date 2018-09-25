@@ -10,7 +10,7 @@ var Schema = mongoose.Schema;
        },
       number:{
        	type: Number,
-       	required:' enter your number please',
+       	required:'Enter your number please',
        	unique: true
        },
       email:{
